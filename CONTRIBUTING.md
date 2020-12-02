@@ -162,7 +162,7 @@ each time you push updates to your repository.
    * _Title_: `katacoda.com`
    * _Key_: paste the _Git Deploy Key_ value from your Katacoda settings page
    * _Allow write access_: leave unchecked
-4. Click on _Add deploy key_ button
+4. Click on _Add key_ button
 5. Click on _Webhooks_ (left navigation)
 6. Click on _Add webhook_ button and use the following information to set it up:
    * _Payload URL_: [https://editor.katacoda.com/scenarios/updated](https://editor.katacoda.com/scenarios/updated)
